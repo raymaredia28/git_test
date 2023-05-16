@@ -1,1 +1,1 @@
-afdfadfadThis is a git test for the Odin Project!
+This is a git test for the Odin Project!
